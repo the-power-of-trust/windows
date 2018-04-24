@@ -1,1 +1,1 @@
-This repo is only for the Windows installer
+This repo is only for the Windows installer — see [releases tab](/releases).
